@@ -1,5 +1,5 @@
 # 💫 About Me:
-💬 I'm Frieda, 19 years old and I love programming.<br>📖 I'm currenly in high school.<br>🔭 I’m currently working on my website and little helping scripts.<br>🌱 I’m currently learning pythons ui libraries.<br>📺 And I want to build my own PC from scratch like nand2tetris.<br>
+💬 I'm Frieda, 20 years old and I love programming.<br>📖 I'm currenly in high school.<br>🔭 I’m currently working on my website and little helping scripts.<br>🌱 I’m currently learning pythons ui libraries.<br>📺 And I want to build my own PC from scratch like nand2tetris.<br>
 
 
 ## 🌐 Socials:
@@ -20,7 +20,7 @@
 [![](https://visitcount.itsvg.in/api?id=Frieder21&icon=2&color=10)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/thxFrieda) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)]() 
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
